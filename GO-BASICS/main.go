@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/mzhou356/learn-golang/GO-BASICS/os_package"
+	"github.com/mzhou356/learn-golang/GO-BASICS/ospackage"
 )
 
 func main() {
-	os_package.GetTerminalArgs()
+	ospackage.GetTerminalArgs()
 }

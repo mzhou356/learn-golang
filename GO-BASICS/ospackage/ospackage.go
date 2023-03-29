@@ -1,4 +1,4 @@
-package os_package
+package ospackage
 
 import (
 	"fmt"
